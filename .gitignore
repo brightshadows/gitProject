@@ -1,2 +1,6 @@
 /text1.txt
 /text2.txt
+
+
+#auto gen files
+auto-gen-files/*.txt
